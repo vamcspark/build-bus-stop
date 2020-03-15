@@ -1,0 +1,22 @@
+#myTable {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ddd;
+    font-size: 17px;
+    overflow: auto;
+  }
+  
+  #myTable th, #myTable td {
+    text-align: left;
+    padding: 12px;
+  }
+  
+  #myTable tr {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  #myTable tr.table-header, #myTable tr:hover {
+    background-color: teal;
+    color: white;
+    width: 20%;
+  }

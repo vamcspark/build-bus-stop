@@ -1,0 +1,82 @@
+[
+    {
+      "name": "Stop 13",
+      "location": "Marina Ctr Ter",
+      "funds": {
+        "target": 700,
+        "required": 700,
+        "current": 0,
+        "transactions": []
+      }
+    },
+    {
+      "name": "Stop 10",
+      "location": "Tampines Int Kent",
+      "funds": {
+        "target": 700,
+        "required": 700,
+        "current": 0,
+        "transactions": []
+      }
+    },
+    {
+      "name": "Stop 11",
+      "location": "Lor 1 Geylang Ter",
+      "funds": {
+        "target": 700,
+        "required": 700,
+        "current": 0,
+        "transactions": []
+      }
+    },
+    {
+      "name": "Stop 19",
+      "location": "Blk 403 / Bet Blks 139/140",
+      "funds": {
+        "target": 700,
+        "required": 700,
+        "current": 0,
+        "transactions": []
+      }
+    },
+    {
+      "name": "Stop 16",
+      "location": "Tampines Concourse",
+      "funds": {
+        "target": 700,
+        "required": 700,
+        "current": 0,
+        "transactions": []
+      }
+    },
+    {
+      "name": "Stop 22",
+      "location": "Marina Ctr Ter",
+      "funds": {
+        "target": 700,
+        "required": 700,
+        "current": 0,
+        "transactions": []
+      }
+    },
+    {
+      "name": "Stop 23",
+      "location": "Marina Ctr Ter",
+      "funds": {
+        "target": 700,
+        "required": 700,
+        "current": 0,
+        "transactions": []
+      }
+    },
+    {
+      "name": "Stop 24",
+      "location": "Marina Ctr Ter",
+      "funds": {
+        "target": 700,
+        "required": 700,
+        "current": 0,
+        "transactions": []
+      }
+    }
+  ]
